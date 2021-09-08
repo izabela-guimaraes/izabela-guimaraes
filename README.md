@@ -6,7 +6,7 @@ hello i'm izabela! :)
 
 -🤔 Exploring new technologies and developing software solutions.
 
--🎓 Studying Software Development at Code Club.
+-🎓 Studying programming at Code Club.
 
 
 
