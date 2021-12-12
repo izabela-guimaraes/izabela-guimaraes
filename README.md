@@ -2,7 +2,7 @@ hello i'm izabela! :)
 
 -👩🏼‍💻 I'm currently studying front-end
 
--📚 I’m currently learning java script
+-📚 I’m currently learning javaScript
 
 -🤔 Exploring new technologies and developing software solutions.
 
