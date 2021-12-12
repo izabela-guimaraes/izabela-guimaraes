@@ -6,7 +6,11 @@ hello i'm izabela! :)
 
 -🤔 Exploring new technologies and developing software solutions.
 
--🎓 Studying programming at Code Club.
+-🎓 Studying programming at Code Club | Curso em video 
+
+-✨ Learning how to create filters for instagram 
+
+-🎮 Learning more about game development in crie seus jogos
 
 
 
