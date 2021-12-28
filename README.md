@@ -35,7 +35,7 @@ hello i'm izabela! :)
   <a href="https://instagram.com/izabelagns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/iza#2054" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/izabela-guimar%C3%A3es-nascimento-7a15621bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:izabela.guimaraes.nascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:iza.devfrontend@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/izabela-guimaraes/izabela-guimaraes/blob/output/github-contribution-grid-snake.svg)
   
