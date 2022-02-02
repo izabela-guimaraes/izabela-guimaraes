@@ -6,7 +6,7 @@ hello i'm izabela! :)
 
 -🤔 Exploring new technologies and developing software solutions.
 
--🎓 Studying programming at Code Club | Curso em video 
+-🎓 Studying programming at Dev Club | Curso em video 
 
 -✨ Learning how to create filters for instagram 
 
