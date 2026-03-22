@@ -1,7 +1,7 @@
 <p align="left">hello i'm izabela! :) <br><br>-👩🏼‍💻 I'm currently studying front-end<br><br>-📚 I’m currently learning javaScript<br><br>-🤔 Exploring new technologies and developing software solutions.<br><br>-🎓 Studying studying software engineering</p>
 
 ###
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izabela-guimaraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izabela-guimaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
